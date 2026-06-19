@@ -35,5 +35,5 @@ flutter pub get
 4. Uygulamayı çalıştırın:
 flutter run -d chrome
 
-Ekran Görüntüleri,
+Ekran görüntüleri,
  uygulamanın ana sayfa ve detay sayfalarına ait görseller, projenin screenshots dosyasında yer almaktadır.
