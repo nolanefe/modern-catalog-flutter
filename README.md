@@ -1,39 +1,26 @@
-Modern Katalog
+## About the Project
+The main objectives of this application are as follows:
+* Implementing Flutter architecture and widget logic.
+* Using navigation structures between pages.
+* Designing GridView and card-based interfaces.
+* Implementing cart system simulation and state management.
+* Ensuring a stable user experience through error handling.
 
-Bu proje, temel e-ticaret arayüz prensiplerini içeren bir katalog uygulamasıdır. Proje; widget mimarisi, sayfa geçişleri, veri modelleme ve temel kullanıcı arayüzü tasarımı pratiklerini kapsar.
+## Technologies Used
+* **Framework:** Flutter SDK
+* **Language:** Dart
+* **Development Environment:** Visual Studio Code / Android Studio
+* **Libraries:** material.dart
+* **Flutter Version Used:** 3.44.2
 
-Proje Hakkında
+## Steps to Run
+You can follow these steps on the terminal to run the project:
 
-Bu uygulamanın temel amaçları şunlardır:
+* **Clone the repository:** `git clone https://github.com/nolanefe/modern-catalog-flutter.git`
+* **Navigate to the project directory:** `cd modern-catalog-flutter`
+* **Install dependencies:** `flutter pub get`
+* **Run the application:** `flutter run -d chrome`
 
-- Flutter mimarisini ve widget mantığını uygulamak.
-- Sayfalar arası navigasyon yapılarını kullanmak.
-- GridView ve kart tabanlı arayüzler tasarlamak.
-- Sepet sistemi simülasyonu ve state yönetimi gerçekleştirmek.
-- Hata yönetimi ile kararlı bir kullanıcı deneyimi sağlamak.
+---
 
-Kullanılan Teknolojiler
-
-- Framework: Flutter SDK
-- Dil: Dart
-- Geliştirme Ortamı: Visual Studio Code / Android Studio
-- Kütüphaneler: material.dart
-
-Kullanılan Flutter Sürümü
-3.44.2
-
-Çalıştırma Adımları
-
-Projeyi çalıştırmak için terminal üzerinde şu adımları izleyebilirsiniz:
-
-1. Depoyu klonlayın:
-git clone https://github.com/nolanefe/modern-catalog-flutter.git
-2. Proje dizinine gidin:
-cd modern-catalog-flutter
-3. Bağımlılıkları yükleyin:
-flutter pub get
-4. Uygulamayı çalıştırın:
-flutter run -d chrome
-
-Ekran görüntüleri;
- uygulamanın ana sayfa ve detay sayfalarına ait görseller, projenin screenshots dosyasında yer almaktadır.
+*Screenshots; images of the home page and detail pages of the application are located in the project's `screenshots` folder.*
